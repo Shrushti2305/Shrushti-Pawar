@@ -14,8 +14,8 @@ I'm an aspiring engineering student on an exciting journey to explore the realms
 
 <p align="center">
   
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shrushti2305)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Shrushti2305)](https://git.io/streak-stats) 
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushti2305&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
 
