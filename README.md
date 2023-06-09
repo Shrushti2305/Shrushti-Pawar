@@ -8,9 +8,6 @@ I'm an aspiring engineering student on an exciting journey to explore the realms
   [*_My Github_*](https://www.github.com/Shrushti2305/) 
 
 </h3>
-<h3 align="left">Connect with me:</h3>
-<a href="www.linkedin.com/in/shrushtipawar/"><img width="32px" alt="Linkedin" title="LinkedIn" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>  &nbsp;&nbsp;
-<a href="mailto:shrushtipawar9890@gmail.com"> <img width="32px" height="32px" src="https://github.com/Shrushti2305/Shrushti2305/assets/90635819/9756f6e7-3910-4b2b-9022-95093223a59e">
 
 <h1 align="center"> My Skill Set </h1>
 <br>
@@ -64,3 +61,10 @@ I'm an aspiring engineering student on an exciting journey to explore the realms
 </table>
   
   </p>
+  
+  <h1 align="center">Connect with me:</h1>
+  <p align="center">
+ <a href="www.linkedin.com/in/shrushtipawar/"><img width="32px" alt="Linkedin" title="LinkedIn" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/> </a> &nbsp;&nbsp;
+<a href="shrushtipawar9890@gmail.com"> <img width="32px" height="32px" src="https://github.com/Shrushti2305/Shrushti2305/assets/90635819/9756f6e7-3910-4b2b-9022-95093223a59e"></a> 
+  </p>
+
