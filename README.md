@@ -67,6 +67,14 @@ I'm an aspiring engineering student on an exciting journey to explore the realms
   <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrushti2305&show_icons=true&theme=transparent">
   </p>
+  
+  <h1> What I believe in:</h1>
+  
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=3564F7&multiline=true&width=435&height=100&lines=Don't+wish+for+it%2C+;work+for+it.)](https://git.io/typing-svg) -->
+  
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=3564F7&width=935&height=130&lines=Don't+wish+for+it%2C+Work+for+it." alt="Typing SVG" /></a>
+  
   <h1 align="center">Connect with me:</h1>
   <p align="center">
  <a href="www.linkedin.com/in/shrushtipawar/"><img width="32px" alt="Linkedin" title="LinkedIn" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/> </a> &nbsp;&nbsp;
