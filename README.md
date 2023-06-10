@@ -1,4 +1,5 @@
-<h1> Hi! I am Shrushti Pawar </h1>
+<!-- <h1> Hi! I am Shrushti Pawar </h1> -->
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=951BF7&width=935&height=120&lines=Hi!+I+am+Shrushti+Pawar" alt="Typing SVG" /></a></h1>
 <h3> ⚡ About Me </h3>
 I'm an aspiring engineering student on an exciting journey to explore the realms of technology and innovation.
 <h3>📫 Contact Me - shrushtipawar9890@gmail.com <h3>
@@ -64,9 +65,9 @@ I'm an aspiring engineering student on an exciting journey to explore the realms
 </table>
 
   </p>
-  <p align="center">
+<!--   <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrushti2305&show_icons=true&theme=transparent">
-  </p>
+  </p> -->
   
   <h1> What I believe in:</h1>
   
