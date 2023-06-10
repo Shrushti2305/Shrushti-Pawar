@@ -45,6 +45,8 @@ I'm an aspiring engineering student on an exciting journey to explore the realms
 <table>
 <tr>
 <td>  
+<!--   <p align="center">
+   -->
   
  [![GitHub Streak](https://streak-stats.demolab.com/?user=Shrushti2305)](https://git.io/streak-stats) 
 
@@ -58,12 +60,13 @@ I'm an aspiring engineering student on an exciting journey to explore the realms
 
   </td>
 </tr>
+      
 </table>
-  
-  </p>
-  
-  
 
+  </p>
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrushti2305&show_icons=true&theme=transparent">
+  </p>
   <h1 align="center">Connect with me:</h1>
   <p align="center">
  <a href="www.linkedin.com/in/shrushtipawar/"><img width="32px" alt="Linkedin" title="LinkedIn" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/> </a> &nbsp;&nbsp;
