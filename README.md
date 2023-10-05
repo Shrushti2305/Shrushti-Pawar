@@ -49,7 +49,7 @@ I'm an aspiring engineering student on an exciting journey to explore the realms
 <!--   <p align="center">
    -->
   
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Shrushti2305)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shrushti2305)](https://git.io/streak-stats)
 
   
  
